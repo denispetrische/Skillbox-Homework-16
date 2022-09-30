@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Skillbox Homework 16/1.0.0": {
+        "runtime": {
+          "Skillbox Homework 16.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skillbox Homework 16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
